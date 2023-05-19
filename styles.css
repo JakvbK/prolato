@@ -9,12 +9,12 @@ body {
     padding: 0px;
 }
 
-a:visited {
-    color: seashell;
-}
-
 a {
     color: seashell;    
+}
+
+a:visited {
+    color: seashell;
 }
 
 a:hover {
