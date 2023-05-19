@@ -13,6 +13,10 @@ a:visited {
     color: seashell;
 }
 
+a {
+    color: seashell;    
+}
+
 a:hover {
     opacity: 0.5;
 }
