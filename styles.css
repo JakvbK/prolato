@@ -138,7 +138,7 @@ h2, h4 {
 
 .location {
     justify-content: space-between;
-    margin: auto 20px auto;
+    margin: auto 20px 40px;
     background-color: black;
     width: 300px;
     height: 300px;
